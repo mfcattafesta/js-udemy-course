@@ -24,7 +24,6 @@ var if = 23;
 */
 
 
-
 /*****************************
 * Variable mutation and type coercion
 */
@@ -50,7 +49,6 @@ alert(firstName + ' is a ' + age + ' year old ' + job + '. Is he married? ' + is
 var lastName = prompt('What is his last Name?');
 console.log(firstName + ' ' + lastName);
 */
-
 
 
 /*****************************
@@ -85,7 +83,6 @@ console.log(typeof 'Mark is older tha John');
 var x;
 console.log(typeof x);
 */
-
 
 
 /*****************************
@@ -159,7 +156,6 @@ if (BMIMark > BMIJohn) {
 */
 
 
-
 /*****************************
 * Boolean logic
 */
@@ -177,7 +173,6 @@ if (age < 13) {
     console.log(firstName + ' is a man.');
 }
 */
-
 
 
 /*****************************
@@ -231,7 +226,6 @@ switch (true) {
         console.log(firstName + ' is a man.');
 }
 */
-
 
 
 /*****************************
@@ -289,7 +283,6 @@ yearsUntilRetirement(1969, 'Jane');
 */
 
 
-
 /*****************************
 * Function Statements and Expressions
 */
@@ -315,7 +308,6 @@ console.log(whatDoYouDo('teacher', 'John'));
 console.log(whatDoYouDo('designer', 'Jane'));
 console.log(whatDoYouDo('retired', 'Mark'));
 */
-
 
 
 /*****************************
@@ -383,7 +375,6 @@ jane.birthYear = 1969;
 jane['lastName'] = 'Smith';
 console.log(jane);
 */
-
 
 
 /*****************************
